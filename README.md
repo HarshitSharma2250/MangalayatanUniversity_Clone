@@ -53,7 +53,7 @@ you can use in different cases, like slide bar, how can make responsive, how can
 
 you can reach out my project 
 
-[mangalayatan university](https://656b0f5d9cf6c73157d9d33a--extraordinary-cheesecake-bd5ce3.netlify.app/): 
+[mangalayatan university](https://mangalayatanuniversityclone.netlify.app//): 
 
 
 
